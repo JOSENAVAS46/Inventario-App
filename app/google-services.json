@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "955476834030",
-    "project_id": "proyecto-dam-ab97f",
-    "storage_bucket": "proyecto-dam-ab97f.appspot.com"
+    "project_number": "87471801544",
+    "firebase_url": "https://inventariodb-22a79-default-rtdb.firebaseio.com",
+    "project_id": "inventariodb-22a79",
+    "storage_bucket": "inventariodb-22a79.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:955476834030:android:6842acd1709434f56625ff",
+        "mobilesdk_app_id": "1:87471801544:android:87ebe475b7461984f991fd",
         "android_client_info": {
           "package_name": "com.example.proyectodam"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDc_DNCgZGeGB87Dxwp7GeiPMp_bIZLh18"
+          "current_key": "AIzaSyDHEXLcpyAfC800ksgiwoLY4VJ3StPXzr8"
         }
       ],
       "services": {
